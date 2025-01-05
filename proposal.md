@@ -21,17 +21,17 @@ If possible, we plan to create a python visualizer that uses matplotlib or simil
 
 ## Breakdown of work
 ### MVP
-Kellen: File I/O functions and handlers
-Ashley: Shared memory management + Semaphores
-Kellen: Sub-process creation and management functions
-Ashley: FDM Calculation functions
+- Kellen: File I/O functions and handlers
+- Ashley: Shared memory management + Semaphores
+- Kellen: Sub-process creation and management functions
+- Ashley: FDM Calculation functions
 
 ### Extra
-Kellen: Visualization tool
-Ashley: Initial setup tools
+- Kellen: Visualization tool
+- Ashley: Initial setup tools
 
 ## User Interface: 
-	The user will be prompted to input a time interval, the number of intervals they would like to stimulate, and a resolution. From this, a new data file will be created with the temperature updates for the additional intervals. 
+The user will be prompted to input a time interval, the number of intervals they would like to stimulate, and a resolution. From this, a new data file will be created with the temperature updates for the additional intervals. 
 
 ## Timeline
 - [ ] 1/6 : Initial Proposal
